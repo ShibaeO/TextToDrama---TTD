@@ -7,8 +7,9 @@ clipList = []
 a = os.listdir("outpout/")
 
 for i in a:
-    print(i)
-    clipList.append(VideoFileClip(f"outpout/{i}"))
+    if ".mp4" in i:
+        print(i)
+        clipList.append(VideoFileClip(f"outpout/{i}"))
 
 print(clipList)
 final = concatenate_videoclips(clipList)
