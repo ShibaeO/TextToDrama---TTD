@@ -1,0 +1,417 @@
+{
+  "guild": {
+    "id": "387304030390583296",
+    "name": "\uD83C\uDFC6L\u1D00\u2714C\u1D0F\u0274F\u0280\u1D07\u0301\u0280\u026A\u1D07\uD83D\uDCCC",
+    "iconUrl": "https://cdn.discordapp.com/icons/387304030390583296/0bde427d02092a65ac42956855fe4e7f.png"
+  },
+  "channel": {
+    "id": "412351606986768406",
+    "type": "GuildTextChat",
+    "category": "Discussion",
+    "name": "\uD83D\uDCACg\u00E9n\u00E9ral\uD83C\uDF10",
+    "topic": "Tout le monde est libre de s\u0027exprimer! Sans abus bien s\u00FBr."
+  },
+  "dateRange": {
+    "after": "2020-07-09T00:00:00+02:00",
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "730733404064317470",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:33:39.899+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "@Nitrox.mp4 je pense sinc\u00E8rement que vos provocations envers la mod\u00E9ration, nous pouvons tr\u00E8s largement nous en passer. Si vous n\u0027\u00EAtes pas content du fonctionnement de la mod\u00E9ration, ou si vous estimez, selon vos paroles, que la mentialit\u00E9 du staff est enfantine, pourquoi ne pas r\u00E9aliser une candidature ? Vous vous rendrez s\u00FBrement compte du contraire.",
+      "author": {
+        "id": "342405080823234562",
+        "name": "MastocGame",
+        "discriminator": "3867",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342405080823234562/a337a74cd561a8a4ad3a07f68d5ea5ca.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730733493965029377",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:34:01.333+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Il a deja fait",
+      "author": {
+        "id": "204785107716800512",
+        "name": "Razor",
+        "discriminator": "4160",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/204785107716800512/f82d0d7195bec94cd9916be1a0a3e3fc.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730733524503625810",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:34:08.614+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Et c\u0027est pas passer",
+      "author": {
+        "id": "204785107716800512",
+        "name": "Razor",
+        "discriminator": "4160",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/204785107716800512/f82d0d7195bec94cd9916be1a0a3e3fc.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730733535207358527",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:34:11.166+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": ":razorg1Breakingtas:",
+      "author": {
+        "id": "204785107716800512",
+        "name": "Razor",
+        "discriminator": "4160",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/204785107716800512/f82d0d7195bec94cd9916be1a0a3e3fc.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730733555621036055",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:34:16.033+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Logique",
+      "author": {
+        "id": "521412789852569610",
+        "name": "d\u00E6mons",
+        "discriminator": "0690",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/521412789852569610/a85029f33b34a3595d6075c311c81cd3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730733574004670484",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:34:20.416+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Ce n\u0027est donc pas pour rien.",
+      "author": {
+        "id": "342405080823234562",
+        "name": "MastocGame",
+        "discriminator": "3867",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342405080823234562/a337a74cd561a8a4ad3a07f68d5ea5ca.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730733740476596295",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:35:00.106+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Donc avant de provoquer la section mod\u00E9ration, en les qualifiant, je cite, \u0022d\u0027enfants\u0022, essayez de faire le n\u00E9cessaire quant \u00E0 votre comportement.",
+      "author": {
+        "id": "342405080823234562",
+        "name": "MastocGame",
+        "discriminator": "3867",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342405080823234562/a337a74cd561a8a4ad3a07f68d5ea5ca.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730733852548661288",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:35:26.826+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Il troll",
+      "author": {
+        "id": "521412789852569610",
+        "name": "d\u00E6mons",
+        "discriminator": "0690",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/521412789852569610/a85029f33b34a3595d6075c311c81cd3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730734011470708757",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:36:04.716+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Bonjour @\u2764 kaleona \u2764",
+      "author": {
+        "id": "342405080823234562",
+        "name": "MastocGame",
+        "discriminator": "3867",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342405080823234562/a337a74cd561a8a4ad3a07f68d5ea5ca.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730734155167694913",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:36:38.976+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Vous allez bien ?",
+      "author": {
+        "id": "276872904862334976",
+        "name": "\u2764 kaleona \u2764",
+        "discriminator": "4028",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276872904862334976/a_346a2f311acdbcc88471e721805d3448.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735029356986379",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:40:07.399+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "@MastocGame ol",
+      "author": {
+        "id": "505341458513920001",
+        "name": "Nitrox.mp4",
+        "discriminator": "8552",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/505341458513920001/d82d83be8bfde7e5a471d38c0810710d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735049334325339",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:40:12.162+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "je rigole",
+      "author": {
+        "id": "505341458513920001",
+        "name": "Nitrox.mp4",
+        "discriminator": "8552",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/505341458513920001/d82d83be8bfde7e5a471d38c0810710d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735116145655831",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:40:28.091+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "alors c\u0027est pas en faisant une morale que je vais devenir un enfant  de choeur",
+      "author": {
+        "id": "505341458513920001",
+        "name": "Nitrox.mp4",
+        "discriminator": "8552",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/505341458513920001/d82d83be8bfde7e5a471d38c0810710d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735408618405899",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:41:37.822+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "bref, ce que j\u0027essaye de dire c\u0027est que LA PLUSPART des mod\u00E9rateurs, je vais pas citer de noms, sont des enfants, qui passent leurs nerf sur les joeurus",
+      "author": {
+        "id": "505341458513920001",
+        "name": "Nitrox.mp4",
+        "discriminator": "8552",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/505341458513920001/d82d83be8bfde7e5a471d38c0810710d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735473542299680",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:41:53.301+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "tu dois surement avoir 30ans toi",
+      "author": {
+        "id": "289800194336227337",
+        "name": "brainz",
+        "discriminator": "5062",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/289800194336227337/be350394ab1285e31eade7cef151e7a0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735475828064287",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:41:53.846+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "Les autres sont r\u00E9sponsable, cool, et j\u0027ai rien \u00E0 leur reprocher",
+      "author": {
+        "id": "505341458513920001",
+        "name": "Nitrox.mp4",
+        "discriminator": "8552",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/505341458513920001/d82d83be8bfde7e5a471d38c0810710d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735497588244512",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:41:59.034+00:00",
+      "timestampEdited": "2020-07-09T10:42:01.617+00:00",
+      "isPinned": false,
+      "content": "t\u0027es le plus gros bouffon jamais vu ici",
+      "author": {
+        "id": "289800194336227337",
+        "name": "brainz",
+        "discriminator": "5062",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/289800194336227337/be350394ab1285e31eade7cef151e7a0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735519775981568",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:42:04.324+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "D\u0027accord mec",
+      "author": {
+        "id": "505341458513920001",
+        "name": "Nitrox.mp4",
+        "discriminator": "8552",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/505341458513920001/d82d83be8bfde7e5a471d38c0810710d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735534741389332",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:42:07.892+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "trop fun j\u0027adore",
+      "author": {
+        "id": "505341458513920001",
+        "name": "Nitrox.mp4",
+        "discriminator": "8552",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/505341458513920001/d82d83be8bfde7e5a471d38c0810710d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735626898505830",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:42:29.864+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "vient pas cr\u00E9er la merde stp",
+      "author": {
+        "id": "505341458513920001",
+        "name": "Nitrox.mp4",
+        "discriminator": "8552",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/505341458513920001/d82d83be8bfde7e5a471d38c0810710d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730735650533408789",
+      "type": "Default",
+      "timestamp": "2020-07-09T10:42:35.499+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "je cr\u00E9e pas la merde",
+      "author": {
+        "id": "289800194336227337",
+        "name": "brainz",
+        "discriminator": "5062",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/289800194336227337/be350394ab1285e31eade7cef151e7a0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730760225191100507",
+      "type": "Default",
+      "timestamp": "2020-07-09T12:20:14.554+00:00",
+      "timestampEdited": null,
+      "isPinned": false,
+      "content": "lol",
+      "author": {
+        "id": "218737799552172032",
+        "name": "\uD835\uDCE2\uD835\uDCF1\uD835\uDCF2\uD835\uDCEB\uD835\uDCEA",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/218737799552172032/a_94ce5b6e214537e1b80e2183ca0868ac.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    }
+  ],
+  "messageCount": 1547
+}
